@@ -6,5 +6,5 @@
 1. listas numeradas
 `código en línea`
 ```bash
-# bloque de código
+# bloque de códigossss
 ls -las
