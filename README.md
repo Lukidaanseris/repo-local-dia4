@@ -7,4 +7,4 @@
 `código en línea`
 ```bash
 # bloque de cóssdigossss
-ls -las
+ls -lassssss
